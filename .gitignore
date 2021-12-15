@@ -9,7 +9,6 @@ project/project
 frontend/build
 .sbt-hydra-history
 backend/assets
-backend/public
 
 ## IDE specific
 .idea
